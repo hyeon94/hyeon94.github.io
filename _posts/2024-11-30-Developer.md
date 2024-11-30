@@ -1,5 +1,5 @@
 ---
 title: JAVA
-categories: [developer, Back-End]
+categories: [develope, Back-End]
 toc: true
 ---
